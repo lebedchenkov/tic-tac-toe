@@ -1,0 +1,16 @@
+D:\K19-1\4 курс 1 семестр\ASP.NET\C# Arrays\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+D:\K19-1\4 курс 1 семестр\ASP.NET\C# Arrays\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+D:\K19-1\4 курс 1 семестр\ASP.NET\C# Arrays\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+D:\K19-1\4 курс 1 семестр\ASP.NET\C# Arrays\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\K19-1\4 курс 1 семестр\ASP.NET\C# Arrays\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+D:\K19-1\4 курс 1 семестр\ASP.NET\C# Arrays\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+D:\K19-1\4 курс 1 семестр\ASP.NET\C# Arrays\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\K19-1\4 курс 1 семестр\ASP.NET\C# Arrays\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+D:\K19-1\4 курс 1 семестр\ASP.NET\C# Arrays\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+D:\K19-1\4 курс 1 семестр\ASP.NET\C# Arrays\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+D:\K19-1\4 курс 1 семестр\ASP.NET\C# Arrays\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+D:\K19-1\4 курс 1 семестр\ASP.NET\C# Arrays\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+D:\K19-1\4 курс 1 семестр\ASP.NET\C# Arrays\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+D:\K19-1\4 курс 1 семестр\ASP.NET\C# Arrays\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+D:\K19-1\4 курс 1 семестр\ASP.NET\C# Arrays\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+D:\K19-1\4 курс 1 семестр\ASP.NET\C# Arrays\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
